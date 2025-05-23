@@ -20,8 +20,8 @@ GPT Structure Package は、教育支援・業務導入・自己評価支援の3
 | `readme_business_v1.0.0.md`                      | 業務導入ガイド（SaaS・提案・API連携）                  |
 | `readme_edu_v1.0.0.md`                           | 教材活用ガイド（教育・研修・演習）                      |
 | `readme_growth_v1.0.0.md`                        | 自己成長・学習向け活用ガイド                            |
-| `quickstart_gpt_tutor_free.md`                   | GPTs無料ユーザー向けクイック導入ガイド（構造型と互換あり） |
-| `gpt_tutor_publish_note.md`                      | GitHub/Notion公開用ノート                              |
+| `quickstart_gpt_structure_free.md`                   | GPTs無料ユーザー向けクイック導入ガイド（構造型と互換あり） |
+| `gpt_structure_publish_note.md`                      | GitHub/Notion公開用ノート                              |
 | `gui_form_plan_v1.0.0.md`                        | GUIフォーム設計用の構成案                                |
 | `structuremap_outline_v1.0.0.md`                 | 出力構成とレベル対応のアウトライン                       |
 
