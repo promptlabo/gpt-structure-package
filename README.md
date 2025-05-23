@@ -50,3 +50,11 @@ gpt-structure-package/
 
 - GitHub: [https://github.com/promptlabo/gpt-structure-package](https://github.com/promptlabo/gpt-structure-package)
 - お問い合わせ: info@example.com
+
+---
+
+## 📄 ライセンス
+
+- ソースコード・構成テンプレ（Function / GUIなど） → [MIT License](./LICENSE)
+- 教育テンプレ・出力例（プロンプト・教材構成など） → [CC BY 4.0](./LICENSE-CC-BY-4.0)
+
