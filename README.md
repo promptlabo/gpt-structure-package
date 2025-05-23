@@ -46,15 +46,23 @@ gpt-structure-package/
 
 ---
 
+## 📄 ライセンス
+
+- **コード（GUI / LP / スクリプト）**：MIT License（`LICENSE.txt`）  
+- **コンテンツ（プロンプトテンプレート / README / ドキュメント）**：  
+  Creative Commons Attribution 4.0 International (CC BY 4.0)  
+  [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+> You are free to:
+> - Share — copy and redistribute the material in any medium or format  
+> - Adapt — remix, transform, and build upon the material for any purpose, even commercially  
+>
+> Under the following terms:
+> - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
 ## 📨 公開・問い合わせ
 
 - GitHub: [https://github.com/promptlabo/gpt-structure-package](https://github.com/promptlabo/gpt-structure-package)
 - お問い合わせ: info@example.com
-
----
-
-## 📄 ライセンス
-
-- ソースコード・構成テンプレ（Function / GUIなど） → [MIT License](./LICENSE)
-- 教育テンプレ・出力例（プロンプト・教材構成など） → [CC BY 4.0](./LICENSE-CC-BY-4.0)
-
