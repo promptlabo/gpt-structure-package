@@ -48,10 +48,12 @@ gpt-structure-package/
 
 ## 📄 ライセンス
 
-- **コード（GUI / LP / スクリプト）**：MIT License（`LICENSE.txt`）  
-- **コンテンツ（プロンプトテンプレート / README / ドキュメント）**：  
-  Creative Commons Attribution 4.0 International (CC BY 4.0)  
-  [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+このテンプレートおよび付属ファイルは © 2025 prompt_labo によって制作されました。
+
+- **商用利用・業務利用は許可されています**
+- **再配布・再販売は禁止されています**
+- 詳細な利用条件は [LICENSE.md](./LICENSE.md) をご確認ください。
+
 
 > You are free to:
 > - Share — copy and redistribute the material in any medium or format  
